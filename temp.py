@@ -1,3 +1,5 @@
+#Привет, мир!
+
 import math
 from math import sqrt
 
